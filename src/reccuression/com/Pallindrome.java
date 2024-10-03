@@ -20,7 +20,7 @@ public class Pallindrome
 	}
 	public static void main(String[] args) 
 	{
-		if(isPal(121)==rev)
+		if(isPal(123)==rev)
 		{
 			System.out.println("Given is palindrome");
 		}
